@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Azienda>
+    <Categoria Id_c="A1" Denominazione="Dirigente">
+        <Persona Id_i="B1">
+            <Nome></Nome>
+            <Cognome></Cognome>
+            <Numero_telefono></Numero_telefono>
+            <Email></Email>
+            <CF></CF>
+        </Persona>
+        <Persona Id_i="B2">
+            <Nome></Nome>
+            <Cognome></Cognome>
+            <Numero_telefono></Numero_telefono>
+            <Email></Email>
+            <CF></CF>
+        </Persona>
+        <Persona Id_i="B3">
+            <Nome></Nome>
+            <Cognome></Cognome>
+            <Numero_telefono></Numero_telefono>
+            <Email></Email>
+            <CF></CF>
+        </Persona>
+    </Categoria>
+    <Categoria Id_c="A2" Denominazione="Impiegato">
+        <Persona Id_i="B4">
+            <Nome></Nome>
+            <Cognome></Cognome>
+            <Numero_telefono></Numero_telefono>
+            <Email></Email>
+            <CF></CF>
+        </Persona>
+        <Persona Id_i="B5">
+            <Nome></Nome>
+            <Cognome></Cognome>
+            <Numero_telefono></Numero_telefono>
+            <Email></Email>
+            <CF></CF>
+        </Persona>
+        <Persona Id_i="B6">
+            <Nome></Nome>
+            <Cognome></Cognome>
+            <Numero_telefono></Numero_telefono>
+            <Email></Email>
+            <CF></CF>
+        </Persona>
+    </Categoria>
+</Azienda>
